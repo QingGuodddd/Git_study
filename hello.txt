@@ -7,7 +7,7 @@ Hello,this is my test!
 Hello,this is my test!
 Hello,this is my test!
 Hello,this is my test!
-Hello,this is my test!
+Hello,this is my test! this is hot_fix_2
 Hello,this is my test!
 fixed
 fixed_2
